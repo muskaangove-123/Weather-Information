@@ -68,5 +68,5 @@ The following details are updated dynamically on the UI :
 < Wind speed
 
 
-<-- LInk of weather-->
-file:///D:/all%20projects/weather%20system/weather%20system%20neha/index.html
+![Screenshot weather](https://github.com/user-attachments/assets/4e93b19e-0cf9-4a71-9f6f-d469f5f72ea9)
+
