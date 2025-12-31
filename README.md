@@ -45,6 +45,7 @@ OpenWeatherMap API
 
 
 Example API format used in the project:
+
 https://api.openweathermap.org/data/2.5/weather?units=metric&q=city_name&appid=API_KEY
 
 
@@ -57,6 +58,7 @@ Weather data is received in JSON format.
 
 
 The following details are updated dynamically on the UI :
+
 < City name
 
 < Temperature
